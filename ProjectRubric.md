@@ -74,7 +74,6 @@ organized into the following four parts:
 
 ##### Clear Presentation (10 points)
 
-The presentation should be targetted to the amount of time available.
-With a short presentation, the goal is not to tell the entire story with
-all of the mathematical details, but highlight the problem, approach,
-and findings.
+The presentation should match the amount of time available. With a short
+presentation, the goal is not to tell the entire story with all of the
+mathematical details, but highlight the problem, approach, and findings.
