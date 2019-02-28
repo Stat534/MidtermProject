@@ -1,0 +1,80 @@
+Project Rubric
+================
+
+The project will be assessed with the following guidelines:
+
+### Introduction
+
+##### Project Motivation (10 points)
+
+Frame the discussion. What is the project and why is it important?
+
+##### Research Question (5 points)
+
+What is the specific question or hypothesis that you are seeking to
+understand?
+
+### Data Overview
+
+##### Exploratory Data Visualization (10 points)
+
+Motivate the problem with data visualization. All figures should have
+clear titles and lables. Captions should be included in the text.
+
+##### Discussion about Distance (5 points)
+
+How is distance treated in this problem? If latitude and longitude is
+used, why is this reasonable in your spatial domain?
+
+##### Variogram (5 points)
+
+Create a discuss a variogram. Does isotropy seem reasonable?
+
+### Methods Overview
+
+##### Model Specification (15 points)
+
+Write out the formal statistical model you are specifying. Include
+priors if you choose a Bayesian technique.
+
+##### Description of Model Fitting / Software Used (5 points)
+
+How are you fitting the model? What software packages have you utilized?
+
+### Results Overview
+
+##### Discussion (12 points)
+
+Why was this particular model selected? What do the results suggest
+about covariates or spatial structure in the model? Make sure to explain
+the findings in a formal statistical sense and also in a non-technical
+manner. There should be some consideration of uncertainty.
+
+##### Data Visualization (8 points)
+
+Include a visual summary of the results, this will likely include a
+predictive map. Don’t forget about uncertainty here too.
+
+### Writing and Presentation
+
+##### Reproducible Document (5 points)
+
+The paper should be created in a reproducible manner with R Studio and
+be executable by the instuctor.
+
+##### Careful attention to spelling and paper formatting (10 points)
+
+In addition to proper spelling and grammar, the paper should also be
+organized into the following four parts:
+
+  - Introduction
+  - Data
+  - Methods
+  - Results and Discussion
+
+##### Clear Presentation (10 points)
+
+The presentation should be targetted to the amount of time available.
+With a short presentation, the goal is not to tell the entire story with
+all of the mathematical details, but highlight the problem, approach,
+and findings.
